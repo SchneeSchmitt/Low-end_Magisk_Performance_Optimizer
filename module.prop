@@ -1,0 +1,6 @@
+id=leopt
+name=Low-end optimizer
+version=V1
+versionCode=1
+author=Schnee Schmitt
+description=Optimise devices with 4GB memory and limited performance. As well as balance IO speed and overhead for UI blurs.
